@@ -4,7 +4,11 @@
 
  
 
-📚 Sou um estudante apaixonado por tecnologia, trilhando meu caminho para a área de tecnologia. 🚀 Atualmente, estou explorando o vasto mundo da programação e aprendendo a linguagem Java para criar aplicativos robustos e eficientes.
+📚 Sou um estudante apaixonado por tecnologia, trilhando meu caminho para a área de tecnologia. 
+
+
+
+🚀 Atualmente, estou explorando o vasto mundo da programação e aprendendo a linguagem Java para criar aplicativos robustos e eficientes.
 
  
 
