@@ -16,7 +16,7 @@
 
  
 
-🌐 Também estou mergulhando no universo do desenvolvimento web com JavaScript (NODE.js), construindo interfaces interativas e dinâmicas que tornam a web uma experiência incrível para os usuários.
+🌐 Também estou mergulhando no universo do desenvolvimento web com JavaScript e Python via FastAPI, construindo interfaces interativas e dinâmicas que tornam a web uma experiência incrível para os usuários.
 
  
 
