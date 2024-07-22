@@ -1,31 +1,58 @@
-[08:38] RICARDO MORAES DE SOUZA
+# Olá Sou Ricardo Moraes de Souza
 
-👋 Olá, sou Ricardo Moraes de Souza!
+#### Seja muito bem-vindo(a)!!
 
- 
+Atualmente em transição de carreira, tenho familiaridade com programação na stack de Back-End, onde atualmente graduando em Desenvolvimento de Software Multiplatoforma pela Faculdade de tecnologia de São Paulo -- FATEC-ZL
 
-📚 Sou um estudante apaixonado por tecnologia, trilhando meu caminho para a área de tecnologia. 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parmaxxx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Parmaxxx&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+## Habilidades
 
-🚀 Atualmente, estou explorando o vasto mundo da programação e aprendendo a linguagem Java para criar aplicativos robustos e eficientes.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
- 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-💾 Estou aprimorando minhas habilidades em gerenciar dados de maneira eficaz e eficiente, modelando esquemas de banco de dados complexos e escrevendo consultas SQL poderosas para extrair informações valiosas.
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
- 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-🌐 Também estou mergulhando no universo do desenvolvimento web com JavaScript e Python via FastAPI, construindo interfaces interativas e dinâmicas que tornam a web uma experiência incrível para os usuários.
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
- 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-💡 Minha jornada na tecnologia é uma busca contínua pelo conhecimento e desafios emocionantes. Este repositório é o meu espaço de aprendizado, onde compartilho meus projetos, experimentos e descobertas enquanto cresço como um entusiasta da tecnologia.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
- 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-🤝 Estou sempre aberto a colaborações e feedbacks construtivos. Junte-se a mim nesta empolgante jornada tecnológica e vamos explorar o futuro juntos!
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
- 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-📫 Você pode entrar em contato comigo em ric_msouza@hotmail.com ou me encontrar no LinkedIn http://www.linkedin.com/in/ricardo-moraes-de-souza-6262b114a.
+## Projetos de Estudo Futuro
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+# Você pode me encontrar nestas redes sociais
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ricardo.moraesdesouza.3)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-moraes-de-souza-6262b114a/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricmsouza/)
+
+## Meus Principais desafios
+
+[![Projeto Adriana Oliveira Fotos II](https://via.placeholder.com/728x90.png?text=Clique+Aqui+para+Explorar+o+Projeto)](https://github.com/Equipe-BooleanTech/Adriana_Oliveira_Fotos_II)
+
+[![Projeto Adriana Oliveira Fotos II](https://via.placeholder.com/728x90.png?text=Clique+Aqui+para+Explorar+o+Projeto)](https://github.com/Parmaxxx/Projeto_Interdisciplinar_II)
